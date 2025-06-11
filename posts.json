@@ -1,6 +1,10 @@
 [
     {
-        "date":"10 May 2025",
-        "content":"hello world!"
+        "date":"<small>11 June 2025</small>",
+        "content":"<b>welcome !</b><p> this site is my personal <b>portfolio</b> - and an ongoing experiment in creating a <b>minimal-impact</b> digital space. I aim to keep this site lean, transparent, and focused. Along the way, I’ll share thoughts on low-impact development, what I’m working on, and how I’m measuring the environmental cost of those projects. </p> <p><b>This site is currently static and built with vanilla CSS, JS and HTML to minimise energy use.</b></p>"
+    },
+    {
+        "date":"<small>11 June 2025</small>",
+        "content":"<small><p>The first feature I'm adding is an environmental impact measurement.</p> You'll find a badge from Digital Beacon in the footer which tracks estimated energy use and emissions over time.</p></small>"
     }
 ]
